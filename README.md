@@ -1,4 +1,5 @@
 # VehicleTracking.API
+incomplete project (70%)
 
 ## Setup
 1. migration database >> "update-database -Project VehicleTracking.Infrastructure -StartupProject VehicleTracking.API"
